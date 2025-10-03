@@ -37,7 +37,7 @@ export default function Header() {
           ))}
         </nav>
         <div className="flex flex-1 items-center justify-end space-x-4">
-          <Button asChild className="shadow-2xl shadow-primary/50 hover:shadow-primary/80 transition-shadow">
+          <Button asChild className="animate-shimmer shadow-primary/50 transition-shadow">
             <Link href="#pricing">Peça Agora</Link>
           </Button>
           <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
