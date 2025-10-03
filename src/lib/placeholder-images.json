@@ -2,57 +2,57 @@
   "placeholderImages": [
     {
       "id": "hero-brownie",
-      "description": "A delicious looking brownie on a plate",
+      "description": "Um brownie delicioso em um prato",
       "imageUrl": "https://images.unsplash.com/photo-1629856428025-8689654d9fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZWxpY2lvdXMlMjBicm93bmllfGVufDB8fHx8MTc1OTQ1ODc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "delicious brownie"
+      "imageHint": "brownie delicioso"
     },
     {
       "id": "about-brownie",
-      "description": "Ingredients used to make brownies",
+      "description": "Ingredientes usados para fazer brownies",
       "imageUrl": "https://images.unsplash.com/photo-1590394072807-12f9869e3907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYWtpbmclMjBpbmdyZWRpZW50c3xlbnwwfHx8fDE3NTk0NTg3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "baking ingredients"
+      "imageHint": "ingredientes de panificação"
     },
     {
       "id": "gallery-1",
-      "description": "Closeup of a brownie",
+      "description": "Close de um brownie",
       "imageUrl": "https://images.unsplash.com/photo-1623400518682-7a60fd33dbb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicm93bmllJTIwY2xvc2V1cHxlbnwwfHx8fDE3NTk0NTg3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "brownie closeup"
+      "imageHint": "close de brownie"
     },
     {
       "id": "gallery-2",
-      "description": "Stack of brownies",
+      "description": "Pilha de brownies",
       "imageUrl": "https://images.unsplash.com/photo-1589728058784-0ca623900f90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxicm93bmllJTIwc3RhY2t8ZW58MHx8fHwxNzU5NDU4Nzg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "brownie stack"
+      "imageHint": "pilha de brownie"
     },
     {
       "id": "gallery-3",
-      "description": "Brownie with a cup of coffee",
+      "description": "Brownie com uma xícara de café",
       "imageUrl": "https://images.unsplash.com/photo-1675820358985-d8eda8d034d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxicm93bmllJTIwY29mZmVlfGVufDB8fHx8MTc1OTQ1ODc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "brownie coffee"
+      "imageHint": "café com brownie"
     },
     {
       "id": "gallery-4",
-      "description": "Slice of a brownie on a fork",
+      "description": "Fatia de um brownie em um garfo",
       "imageUrl": "https://images.unsplash.com/photo-1593114350460-f1e299ad40c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJvd25pZSUyMHNsaWNlfGVufDB8fHx8MTc1OTQ1ODc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "brownie slice"
+      "imageHint": "fatia de brownie"
     },
     {
       "id": "testimonial-1",
-      "description": "Portrait of a happy customer",
+      "description": "Retrato de um cliente feliz",
       "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzOTU3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "person portrait"
+      "imageHint": "retrato de pessoa"
     },
     {
       "id": "testimonial-2",
-      "description": "Portrait of another happy customer",
-      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwc21pbGluZ3xlbnwwfHx8fDE3NTk0MTU1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "person smiling"
+      "description": "Retrato de outro cliente feliz",
+      "imageUrl": "https://i.postimg.cc/hGbw7BZR/photo-1494790108377-be9c29b29330.jpg",
+      "imageHint": "pessoa sorrindo"
     },
     {
       "id": "testimonial-3",
-      "description": "Portrait of a third happy customer",
+      "description": "Retrato de um terceiro cliente feliz",
       "imageUrl": "https://images.unsplash.com/photo-1533147670608-2a2f9775d3a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoYXBweSUyMHBlcnNvbnxlbnwwfHx8fDE3NTk0MzUyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "happy person"
+      "imageHint": "pessoa feliz"
     }
   ]
 }
