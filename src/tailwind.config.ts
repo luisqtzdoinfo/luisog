@@ -98,12 +98,17 @@ export default {
         shimmer: {
           '0%, 100%': { boxShadow: '0 0 30px 8px hsl(var(--primary) / 0.6)' },
           '50%': { boxShadow: '0 0 60px 18px hsl(var(--primary) / 0.9)' },
+        },
+        'float-and-glow': {
+          '0%, 100%': { transform: 'translateY(0) rotate(0deg)', boxShadow: '0 0 20px 5px hsl(var(--primary) / 0.5)' },
+          '50%': { transform: 'translateY(-10px) rotate(1deg)', boxShadow: '0 0 40px 15px hsl(var(--primary) / 0.7)' },
         }
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
         shimmer: 'shimmer 2.5s ease-in-out infinite',
+        'float-and-glow': 'float-and-glow 4s ease-in-out infinite',
       },
     },
   },
