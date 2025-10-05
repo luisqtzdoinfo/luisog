@@ -96,8 +96,8 @@ export default {
           },
         },
         shimmer: {
-          '0%, 100%': { boxShadow: '0 0 20px 5px hsl(var(--primary) / 0.5)' },
-          '50%': { boxShadow: '0 0 40px 12px hsl(var(--primary) / 0.7)' },
+          '0%, 100%': { boxShadow: '0 0 30px 8px hsl(var(--primary) / 0.6)' },
+          '50%': { boxShadow: '0 0 60px 18px hsl(var(--primary) / 0.9)' },
         }
       },
       animation: {
