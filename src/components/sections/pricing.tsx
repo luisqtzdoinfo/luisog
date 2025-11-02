@@ -6,7 +6,7 @@ export default function PricingSection() {
   const plans = [
     {
       title: 'Pacote Brownie Iniciante',
-      price: 'R$4.99',
+      price: 'R$5.99',
       description: 'Feito para quem quer aprender e vender brownie.',
       features: ['receita de bronwie estilo Nova York classico e saboroso', 'PDF com segredos para o brownie perfeito'],
     },
