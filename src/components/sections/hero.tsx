@@ -29,7 +29,7 @@ export default function HeroSection() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" asChild>
-              <Link href="#pricing">Quero o meu agora!</Link>
+              <Link href="https://pay.cakto.com.br/7a4pjou_631916">Quero o meu agora!</Link>
             </Button>
           </div>
         </div>
