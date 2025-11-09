@@ -22,7 +22,7 @@ export default function Header() {
         <div className="mr-4 flex items-center">
           <Link href="/" className="mr-6 flex items-center space-x-2">
             <Sprout className="h-6 w-6 text-primary" />
-            <span className="font-headline text-2xl font-bold tracking-wider text-primary">Academia do Brownie</span>
+            <span className="font-headline whitespace-nowrap overflow-hidden text-ellipsis tracking-wider text-primary scale-x-130 text-2xl font-bold">Academia do Brownie</span>
           </Link>
         </div>
         <nav className="hidden items-center space-x-6 text-sm font-medium md:flex">
@@ -37,8 +37,11 @@ export default function Header() {
           ))}
         </nav>
         <div className="flex flex-1 items-center justify-end space-x-4">
-          <Button asChild>
-            <Link href="https://pay.cakto.com.br/7a4pjou_631916">Quero o meu agora!</Link>
+          <Button asChild className="relative overflow-hidden transition-transform duration-200 ease-in-out hover:scale-105 shadow-lg hover:shadow-primary/50">
+            <Link href="https://pay.cakto.com.br/7a4pjou_631916">
+              <span className="absolute inset-0 w-1/2 -translate-x-full animate-shine bg-gradient-to-r from-transparent via-white/30 to-transparent"></span>
+              Quero o meu agora!
+            </Link>
           </Button>
           <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
             <SheetTrigger asChild>

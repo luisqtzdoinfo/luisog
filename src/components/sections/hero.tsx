@@ -28,8 +28,11 @@ export default function HeroSection() {
             Experimente os brownies mais ricos, cremosos e decadentes, feitos à mão com amor e os melhores ingredientes.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" asChild>
-              <Link href="https://pay.cakto.com.br/7a4pjou_631916">Quero o meu agora!</Link>
+            <Button size="lg" asChild className="relative overflow-hidden transition-transform duration-200 ease-in-out hover:scale-105 shadow-lg hover:shadow-primary/50">
+              <Link href="https://pay.cakto.com.br/7a4pjou_631916">
+                <span className="absolute inset-0 w-1/2 -translate-x-full animate-shine bg-gradient-to-r from-transparent via-white/30 to-transparent"></span>
+                Quero o meu agora!
+              </Link>
             </Button>
           </div>
         </div>

@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col gap-4">
           <Link href="/" className="flex items-center space-x-2">
             <Sprout className="h-6 w-6 text-primary" />
-            <span className="font-headline text-2xl font-bold tracking-wider text-primary">Academia do Brownie</span>
+            <span className="font-headline whitespace-nowrap overflow-hidden text-ellipsis tracking-wider text-primary scale-x-130 text-2xl font-bold">Academia do Brownie</span>
           </Link>
           <p className="text-sm text-muted-foreground">
             Criando os brownies mais maravilhosos que você já provou.
